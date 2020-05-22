@@ -5,7 +5,7 @@
 
 ## 扫码体验
 
-![](喵星好友体验版.jpg)
+![miaomiao](miaomiao.png)
 
 ## 文档学习
 
