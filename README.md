@@ -5,7 +5,7 @@
 
 ## 扫码体验
 
-![miaomiao](miaomiao.png)
+<img src="miaomiao.png" width="200px">
 
 ## 文档学习
 
